@@ -8,5 +8,3 @@ print("Nouveau répertoire de travail:", os.getcwd())
 
 dat = pd.read_csv("Apprentissage.csv")
 print(dat)
-
-
